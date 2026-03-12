@@ -1,0 +1,35 @@
+/**              **\
+---- index.css -----
+\**              **/
+
+/**
+ * copyright 2026 AhmedSayed
+ */
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-block: 40px;
+  background-color: traansparent;
+  border-block-end: 1px solid transparent;
+  z-index: 4;
+  transition: var(--trnsition-1);
+}
+
+.hero {
+  position: relative;
+
+  padding-block: 120px;
+  min-height: 100vh;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.section {
+  position: relative;
+  padding-block: var(--section-space);
+  overflow: hidden;
+  z-index: 1;
+}
