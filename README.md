@@ -43,7 +43,6 @@ Reusable classes and structured layouts were used to reduce redundancy and impro
 
 ## Project Preview 🎥
 [Watch Full Demo Video](./assets/preview/grilli-demo.mp4)
-<!-- [![Project Preview](./assets/previews/thumb.png)](./assets/previews/video.mp4) -->
 
 ## What I Learned 🎯
 * Building responsive layouts for complex multi-section pages.
