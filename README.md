@@ -37,13 +37,13 @@ Organized project structure focused on scalability and maintainability.<br/>
 Separated styling, assets, and JavaScript logic into clear sections for easier development and future improvements.<br/>
 Reusable classes and structured layouts were used to reduce redundancy and improve consistency.<br/>
 
-## screenshots
+## screenshots 
 
-[![Desktop Preview](./assets/preview/desktop.png)](https://grilli-master-project.vercel.app/)
-[![Desktop Preview](./assets/preview/form.png)](https://grilli-master-project.vercel.app/)
+[![Desktop Preview](./root/assets/preview/desktop.png)](https://grilli-master-project.vercel.app/)
+[![Desktop Preview](./root/assets/preview/form.png)](https://grilli-master-project.vercel.app/)
 
 <video width="100%" controls>
-  <source src="./assets/preview/grilli-demo.mp4" type="video/mp4">
+  <source src="./root/assets/preview/grilli-demo.mp4" type="video/mp4">
 </video>
 
 ## What I Learned 🎯
