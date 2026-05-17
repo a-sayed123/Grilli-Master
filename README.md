@@ -38,8 +38,8 @@ Separated styling, assets, and JavaScript logic into clear sections for easier d
 Reusable classes and structured layouts were used to reduce redundancy and improve consistency.<br/>
 
 ## screenshots 
-[![Desktop Preview](./root/assets/preview/desktop.png)](https://grilli-master-project.vercel.app/)
-[![Desktop Preview](./root/assets/preview/form.png)](https://grilli-master-project.vercel.app/)
+[![Desktop Preview](./assets/preview/desktop.png)](https://grilli-master-project.vercel.app/)
+[![Desktop Preview](./assets/preview/form.png)](https://grilli-master-project.vercel.app/)
 
 ## Project Preview 🎥
 [Watch Full Demo Video](./assets/preview/grilli-demo.mp4)
