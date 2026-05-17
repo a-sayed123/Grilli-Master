@@ -38,13 +38,11 @@ Separated styling, assets, and JavaScript logic into clear sections for easier d
 Reusable classes and structured layouts were used to reduce redundancy and improve consistency.<br/>
 
 ## screenshots 
-
 [![Desktop Preview](./root/assets/preview/desktop.png)](https://grilli-master-project.vercel.app/)
 [![Desktop Preview](./root/assets/preview/form.png)](https://grilli-master-project.vercel.app/)
 
-<video width="100%" controls>
-  <source src="./root/assets/preview/grilli-demo.mp4" type="video/mp4">
-</video>
+## Project Preview 🎥
+[Watch Full Demo Video](./root/assets/preview/grilli-demo.mp4)
 
 ## What I Learned 🎯
 * Building responsive layouts for complex multi-section pages.
