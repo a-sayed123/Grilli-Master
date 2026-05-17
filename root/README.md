@@ -42,7 +42,8 @@ Reusable classes and structured layouts were used to reduce redundancy and impro
 [![Desktop Preview](./root/assets/preview/form.png)](https://grilli-master-project.vercel.app/)
 
 ## Project Preview 🎥
-[Watch Full Demo Video](./root/assets/preview/grilli-demo.mp4)
+[Watch Full Demo Video](./assets/preview/grilli-demo.mp4)
+<!-- [![Project Preview](./assets/previews/thumb.png)](./assets/previews/video.mp4) -->
 
 ## What I Learned 🎯
 * Building responsive layouts for complex multi-section pages.
